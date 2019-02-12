@@ -111,9 +111,9 @@
     "@angular-devkit/core" "8.0.0-beta.0"
     rxjs "6.3.3"
 
-"@angular/animations@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/animations/-/animations-7.2.4.tgz#4d0a0b9f14d6bfc38ca773613b61729d020435e6"
+"@angular/animations@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/animations/-/animations-8.0.0-beta.3.tgz#51d41b7b800f569a82f77e6f54f0a74c85b7e8d7"
   dependencies:
     tslib "^1.9.0"
 
@@ -135,15 +135,15 @@
     semver "5.6.0"
     symbol-observable "1.2.0"
 
-"@angular/common@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/common/-/common-7.2.4.tgz#9f1ed530e5dc7613a263e015c203ead390d50336"
+"@angular/common@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/common/-/common-8.0.0-beta.3.tgz#2fd3e37eff063e74aaa5f64845f5d79a1599ecdd"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/compiler-cli@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-7.2.4.tgz#3de23fd5f558a859a444c58dab18f2981c9c2937"
+"@angular/compiler-cli@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/compiler-cli/-/compiler-cli-8.0.0-beta.3.tgz#b3de03b9fafa9b4445884805b519ebd1378dfa95"
   dependencies:
     canonical-path "1.0.0"
     chokidar "^1.4.2"
@@ -157,43 +157,43 @@
     tslib "^1.9.0"
     yargs "9.0.1"
 
-"@angular/compiler@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/compiler/-/compiler-7.2.4.tgz#133eb97fc3169ec9ff84f134eb9e3497fa37537e"
+"@angular/compiler@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/compiler/-/compiler-8.0.0-beta.3.tgz#e18f25c5914056c8ce76ecc584ef5cc3e06a476b"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/core@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/core/-/core-7.2.4.tgz#a6c84940c8edcfa37158f666a1f99c6e4a97bf95"
+"@angular/core@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/core/-/core-8.0.0-beta.3.tgz#4fe4175898bf33cca5bfe5aaf80ccc4ef4ab3895"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/forms@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/forms/-/forms-7.2.4.tgz#be89cf83ad16fa3c813c12e4cff85da5409cf7a0"
+"@angular/forms@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/forms/-/forms-8.0.0-beta.3.tgz#e77737a30380b8fb1e4e7a4a18e393fae413426e"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/language-service@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/language-service/-/language-service-7.2.4.tgz#db72460040b070410cbff678410c142f4d682af8"
+"@angular/language-service@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/language-service/-/language-service-8.0.0-beta.3.tgz#34a0565cf3d6fb04f06bac31521d0c8baa18ea17"
 
-"@angular/platform-browser-dynamic@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/platform-browser-dynamic/-/platform-browser-dynamic-7.2.4.tgz#24dce1bb0d9dab541b3b1b3eda3084a732f11b64"
+"@angular/platform-browser-dynamic@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/platform-browser-dynamic/-/platform-browser-dynamic-8.0.0-beta.3.tgz#d9c4f92f6997dc301c343d0d73d8bf8b928a40be"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/platform-browser@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-7.2.4.tgz#2cf5305878d0620d6b8c02eff00ac3ca8dbc5970"
+"@angular/platform-browser@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/platform-browser/-/platform-browser-8.0.0-beta.3.tgz#70004fecc9d25ccaac6e18e909d91efae7f34d11"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/router@~7.2.0-rc.0":
-  version "7.2.4"
-  resolved "https://registry.npmjs.org/@angular/router/-/router-7.2.4.tgz#83f1997c2a4e6acda93b991b8d7f3dad2b3f91f0"
+"@angular/router@~8.0.0-beta.3":
+  version "8.0.0-beta.3"
+  resolved "https://registry.npmjs.org/@angular/router/-/router-8.0.0-beta.3.tgz#2353491eb1578657c107bcc4d8bf1d2a7c5f7ea8"
   dependencies:
     tslib "^1.9.0"
 
@@ -5099,13 +5099,13 @@ run-queue@^1.0.0, run-queue@^1.0.3:
   dependencies:
     aproba "^1.1.1"
 
-rxjs@6.3.3, rxjs@~6.3.3:
+rxjs@6.3.3:
   version "6.3.3"
   resolved "https://registry.npmjs.org/rxjs/-/rxjs-6.3.3.tgz#3c6a7fa420e844a81390fb1158a9ec614f4bad55"
   dependencies:
     tslib "^1.9.0"
 
-rxjs@^6.4.0:
+rxjs@^6.4.0, rxjs@~6.4.0:
   version "6.4.0"
   resolved "https://registry.npmjs.org/rxjs/-/rxjs-6.4.0.tgz#f3bb0fe7bda7fb69deac0c16f17b50b0b8790504"
   dependencies:

@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.0-beta.0.
 
+
+Setup Kubernetes / Docker container
+
+`docker build -t angular-app .`
+
+`kubectl apply -f kube-angular.yaml`
+
+`minikube service kube-angular --url`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
